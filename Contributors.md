@@ -9564,3 +9564,4 @@ quattad
 - [Jorge Galat](https://github.com/jgalat)
 - [Geraldo Castro](https://github.com/victormatheusc)
 - [Ya Dro](https://github.com/MrYadro)
+- [Ayush Khajanchi] (https://github.com/ayushkhajanchi)
